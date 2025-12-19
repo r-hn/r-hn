@@ -17,8 +17,8 @@ I build efficient tools, clean web applications, and systems that solve real pro
 
 ### 🧰 Tech Stack
 
-- **Languages:** JavaScript, Python, C++  
-- **Tools & Frameworks:** Node.js, Express, Supabase, Tailwind, Netlify  
+- **Languages:** JavaScript, Python, C++ , LuaScript , ReactJS 
+- **Tools & Frameworks:** Whichever fits the perfect
 
 ---
 
