@@ -7,7 +7,7 @@
 ### ⚙️ Rehan — Developer with Intent
 
 I'm Rehan, a developer based in Mumbai, India 🇮🇳.  
-I build efficient tools, clean web applications, and systems that solve real problems — not just look good on a resume.
+I build efficient tools, clean web applications, and systems that solve real problems — not just look good but also effective.
 
 - Web apps · Automation scripts · APIs  
 - Pragmatic by default, perfectionist when it counts  
